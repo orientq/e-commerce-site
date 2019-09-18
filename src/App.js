@@ -1,6 +1,6 @@
-import React from 'react';
-import './App.css';
-import HomePage from './pages/home/HomePage';
+import React from "react";
+import "./App.css";
+import HomePage from "./pages/home/HomePage";
 
 function App() {
   return (
